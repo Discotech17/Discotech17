@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Discotech17
-- 👀 I’m interested in programming with Python and C#, hiking, fishing, video games, and reading.
-- 🌱 I’m currently learning Python and C#.  Python through fun projects and college.  C# through MTA 98-361.
+- 👀 I’m interested in programming with JavaScript and C#, hiking, video games, and reading.
+- 🌱 I’m currently extending my knowledge of JavaScript and learning C#.
 - 💞️ I’m looking to collaborate on n/a currently.
 - 📫 How to reach me matt.descoteaux@outlook.com / mdescoteaux23@gmail.com
 
